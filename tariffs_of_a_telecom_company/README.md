@@ -1,6 +1,6 @@
 ## Data
 
-We have data about two tariff plans of a federal mobile operator is provided in 5 files:
+Data about two tariff plans of a federal mobile operator is provided in 5 files:
 
 calls.csv (information about calls)
 - unique call number 
