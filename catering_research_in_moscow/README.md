@@ -10,8 +10,9 @@ We have open data on public catering establishments in Moscow:
 
 ## Task
 
-* Сделать вывод и дать рекомендации о виде заведения, количестве посадочных мест, а также районе расположения. Прокомментировать возможность развития сети;
-* Подготовить презентацию исследования для инвесторов.
+* Make a conclusion and give recommendations about the type of institution, the number of seats, as well as the area of the location. 
+* Comment on the possibility of network development;
+* Prepare a presentation of the research for investors.
 
 ## Libraries used
 *pandas*, *matplotlib*, *seaborn*, *plotly*, *io*
